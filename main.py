@@ -31,9 +31,7 @@ while game_on:
         n += 1
         guessed_states.append(answer_state)
 
-# ALL OF THIS IS DONE BY ANGELA SO WE DONT'T NEED IT,  OUTPUT IS IN 50_STATES FILE
-
-# # this fun takes two arguments as x and y position and print it
+# this fun takes two arguments as x and y position and print it
 # def get_cmouse_click_coor(x, y):
 #     print(x, y)
 #
